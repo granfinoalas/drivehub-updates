@@ -1,0 +1,8 @@
+{
+  "versionCode": 7,
+  "versionName": "1.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.0.apk",
+  "changelog": "Novidades desta versão:\n- Preferências de unidade: km ou milhas, °C ou °F, km/L ou milhas por galão\n- Clima na tela inicial: relógio ao vivo, localização automática e previsão de 5 dias",
+  "changelogEn": "What's new:\n- Unit preferences: km or miles, °C or °F, km/L or miles per gallon\n- Weather on the home screen: live clock, automatic location and 5-day forecast",
+  "mandatory": false
+}
