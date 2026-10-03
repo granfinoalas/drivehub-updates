@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.7.4",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.4.apk",
-  "changelog": "Novidades desta versão:\n- CORREÇÃO: permissão de internet faltando (clima e atualizações não funcionavam)\n- Relógio com opção de formato 12h (AM/PM) em Ajustes > Unidades",
-  "changelogEn": "What's new:\n- FIX: missing internet permission (weather and updates didn't work)\n- Clock with 12-hour (AM/PM) format option under Settings > Units",
+  "versionCode": 12,
+  "versionName": "1.7.5",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.5.apk",
+  "changelog": "Novidades desta versão:\n- Cartão do clima mais compacto (previsão aparece ao tocar)\n- Relógio menor na tela inicial",
+  "changelogEn": "What's new:\n- More compact weather card (tap to see forecast)\n- Smaller clock on the home screen",
   "mandatory": false
 }
