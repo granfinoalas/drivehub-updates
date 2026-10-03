@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.3",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.3.apk",
-  "changelog": "Novidades desta versão:\n- Versão do app agora aparece na tela inicial\n- Correção da detecção do carro (A2DP + eventos Bluetooth instantâneos)\n- Clima funciona em ambientes fechados\n- Atualizações OTA configuradas de fábrica",
-  "changelogEn": "What's new:\n- App version now shown on the home screen\n- Car detection fix (A2DP + instant Bluetooth events)\n- Weather works indoors\n- OTA updates pre-configured",
+  "versionCode": 11,
+  "versionName": "1.7.4",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.4.apk",
+  "changelog": "Novidades desta versão:\n- CORREÇÃO: permissão de internet faltando (clima e atualizações não funcionavam)\n- Relógio com opção de formato 12h (AM/PM) em Ajustes > Unidades",
+  "changelogEn": "What's new:\n- FIX: missing internet permission (weather and updates didn't work)\n- Clock with 12-hour (AM/PM) format option under Settings > Units",
   "mandatory": false
 }
