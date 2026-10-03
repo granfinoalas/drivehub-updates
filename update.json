@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.0.apk",
-  "changelog": "Novidades desta versão:\n- Preferências de unidade: km ou milhas, °C ou °F, km/L ou milhas por galão\n- Clima na tela inicial: relógio ao vivo, localização automática e previsão de 5 dias",
-  "changelogEn": "What's new:\n- Unit preferences: km or miles, °C or °F, km/L or miles per gallon\n- Weather on the home screen: live clock, automatic location and 5-day forecast",
+  "versionCode": 9,
+  "versionName": "1.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.7.2.apk",
+  "changelog": "Novidades desta versão:\n- Clima agora funciona em ambientes fechados (usa última posição conhecida ou localização por rede quando o GPS não alcança)\n- Mensagens de erro do clima mais claras\n- Atualizações OTA já vêm configuradas de fábrica — não precisa colar URL",
+  "changelogEn": "What's new:\n- Weather now works indoors (falls back to last-known position or network location when GPS can't fix)\n- Clearer weather error messages\n- OTA updates come pre-configured — no need to paste any URL",
   "mandatory": false
 }
