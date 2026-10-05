@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.8.2",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.8.2.apk",
-  "changelog": "Novidades desta versão:\n- Tela Veículo redesenhada: carro pequeno no canto superior esquerdo, sem o cartão azul\n- Calendário \"Seu dia\" movido para baixo e corrigido (agora avisa quando não há compromissos com endereço)\n- Mapa: permissão de localização re-verificada ao voltar dos ajustes",
-  "changelogEn": "What's new:\n- Vehicle screen redesigned: small car at the top-left, no blue card\n- \"Your day\" calendar moved down and fixed (now tells you when there are no appointments with addresses)\n- Map: location permission re-checked when returning from settings",
+  "versionCode": 16,
+  "versionName": "1.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.9.0.apk",
+  "changelog": "Novidades desta versão:\n- OBD agora só aparece quando o adaptador está conectado (app mais limpo no dia a dia)\n- Mapa ao vivo dentro do app: sua posição em tempo real, sem abrir outro aplicativo\n- Busque um endereço ou segure o dedo no mapa para fixar um destino e enviar para o carro",
+  "changelogEn": "What's new:\n- OBD features now only appear when the adapter is connected (cleaner app day-to-day)\n- Live map inside the app: your real-time position, no need to open another app\n- Search an address or long-press the map to pin a destination and send it to the car",
   "mandatory": false
 }
