@@ -1,1 +1,8 @@
-{"apkUrl":"https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.8.0.apk","changelog":"Novidades desta versão:\n- Hub de destinos: compartilhe um local do Google Maps ou Waze com o DriveHub e envie para o carro com 1 toque (salva como contato, o iDrive sincroniza via Bluetooth)\n- Timeline \"Seu dia\" na tela inicial: compromissos do calendário com tempo de viagem e hora de sair\n- Avisar chegada: compartilhe sua previsão de chegada\n- Destinos frequentes: o app aprende sua rotina\n- \"Ir a pé\" no mapa: direção a pé de volta ao carro estacionado","changelogEn":"What's new:\n- Destination hub: share a place from Google Maps or Waze with DriveHub and send it to the car with 1 tap (saves as a contact, iDrive syncs it over Bluetooth)\n- \"Your day\" timeline on the home screen: calendar appointments with drive time and time-to-leave\n- Share arrival: share your ETA\n- Frequent destinations: the app learns your routine\n- \"Walk back\" on the map: walking directions back to your parked car","mandatory":false,"versionCode":13,"versionName":"1.8.0"}
+{
+  "versionCode": 14,
+  "versionName": "1.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.8.1.apk",
+  "changelog": "Novidades desta versão:\n- Corrigido: modo carro agora ativa corretamente quando o Bluetooth conecta\n- Foto do carro menor e sem o fundo branco na tela inicial\n- Atualização OTA em 2 etapas (baixar, depois instalar) com verificação de download",
+  "changelogEn": "What's new:\n- Fixed: car mode now activates correctly when Bluetooth connects\n- Smaller car photo without the white background on the home screen\n- OTA update in 2 steps (download, then install) with download verification",
+  "mandatory": false
+}
