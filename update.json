@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.9.0.apk",
-  "changelog": "Novidades desta versão:\n- OBD agora só aparece quando o adaptador está conectado (app mais limpo no dia a dia)\n- Mapa ao vivo dentro do app: sua posição em tempo real, sem abrir outro aplicativo\n- Busque um endereço ou segure o dedo no mapa para fixar um destino e enviar para o carro",
+  "versionCode": 17,
+  "versionName": "1.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.10.0.apk",
+  "changelog": "Novidades desta versão:\n- Painel de direção: velocímetro GPS grande + tempo e distância da viagem, direto na tela do modo carro\n- Auto-abrir app: escolha Waze, Google Maps ou Spotify para abrir sozinho quando o carro conectar\n- Diário de viagens agora mostra os endereços de origem e destino\n- Verificação automática de qualidade 4x ao dia",
   "changelogEn": "What's new:\n- OBD features now only appear when the adapter is connected (cleaner app day-to-day)\n- Live map inside the app: your real-time position, no need to open another app\n- Search an address or long-press the map to pin a destination and send it to the car",
   "mandatory": false
 }
