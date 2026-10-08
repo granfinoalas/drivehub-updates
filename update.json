@@ -1,8 +1,1 @@
-{
-  "versionCode": 18,
-  "versionName": "1.10.1",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.10.1.apk",
-  "changelog": "Novidades desta versão:\n- Spotify agora é um selo discreto no painel de direção (sem pular de app)\n- Painel de direção: velocímetro GPS grande + tempo e distância da viagem\n- Auto-abrir Waze ou Maps ao conectar no carro (configurável)\n- Diário de viagens com endereços de origem e destino",
-  "changelogEn": "What's new:\n- OBD features now only appear when the adapter is connected (cleaner app day-to-day)\n- Live map inside the app: your real-time position, no need to open another app\n- Search an address or long-press the map to pin a destination and send it to the car",
-  "mandatory": false
-}
+{"apkUrl":"https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.11.0.apk","changelog":"Novidades desta versão:\n- NOVO: Integração real com o carro via USB (protocolo BMW Apps) — nova tela \"Integração com o carro\" no Modo Carro com passo a passo\n- Ao plugar o USB, o DriveHub pode aparecer no menu ConnectedDrive do iDrive com menu próprio (Navegar para Casa, Destino recente, Voltar ao carro)\n- Requer o app BMW Connected Classic instalado e um certificado extraído do APK oficial (o app guia você)","changelogEn":"What's new:\n- NEW: Real car integration over USB (BMW Apps protocol) — new \"Car integration\" screen in Car Mode with step-by-step setup\n- When you plug in USB, DriveHub can appear in the iDrive ConnectedDrive menu with its own menu (Navigate Home, Recent destination, Back to car)\n- Requires the BMW Connected Classic app installed plus a certificate extracted from the official APK (the app guides you)","mandatory":false,"versionCode":19,"versionName":"1.11.0"}
