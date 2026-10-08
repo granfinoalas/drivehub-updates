@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.10.0.apk",
-  "changelog": "Novidades desta versão:\n- Painel de direção: velocímetro GPS grande + tempo e distância da viagem, direto na tela do modo carro\n- Auto-abrir app: escolha Waze, Google Maps ou Spotify para abrir sozinho quando o carro conectar\n- Diário de viagens agora mostra os endereços de origem e destino\n- Verificação automática de qualidade 4x ao dia",
+  "versionCode": 18,
+  "versionName": "1.10.1",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.10.1.apk",
+  "changelog": "Novidades desta versão:\n- Spotify agora é um selo discreto no painel de direção (sem pular de app)\n- Painel de direção: velocímetro GPS grande + tempo e distância da viagem\n- Auto-abrir Waze ou Maps ao conectar no carro (configurável)\n- Diário de viagens com endereços de origem e destino",
   "changelogEn": "What's new:\n- OBD features now only appear when the adapter is connected (cleaner app day-to-day)\n- Live map inside the app: your real-time position, no need to open another app\n- Search an address or long-press the map to pin a destination and send it to the car",
   "mandatory": false
 }
