@@ -1,7 +1,7 @@
 {
   "apkUrl": "https://granfinoalas.github.io/drivehub-updates/drivehub-v1.17.0.apk",
   "changelog": "Tema claro/escuro/automatico; ingles revisado; sons de notificacao; animacao de entrada; microanimacoes das pecas",
-  "changelogEn": "What's new:\n- NEW: fuel log (tap Fuel on the home screen)\n- Fix: language switch now persists\n- Info cells show full text and are tappable (Oil/Tires open the Shop)\n- Home button opens My Destinations when no address is saved",
+  "changelogEn": "What's new:\n- Theme: Light / Dark / Automatic (Profile)\n- English sweep across all screens\n- Notification sounds: gong, chime, beep, silent, or your own audio file\n- New entry animation with the three cars\n- Part micro-animations (oil, tires, cabin filter)",
   "mandatory": false,
   "versionCode": 30,
   "versionName": "1.17.0"
