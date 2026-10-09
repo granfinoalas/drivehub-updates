@@ -1,1 +1,8 @@
-{"apkUrl":"https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.16.0.apk","changelog":"Novidades desta versão:\n- NOVO: registro de abastecimentos (toque em Combustível na tela inicial)\n- Correção: troca de idioma agora salva\n- Células de info com texto completo e clicáveis (Óleo/Pneus abrem a Loja)\n- Botão Casa abre Meus Destinos quando não há endereço salvo","changelogEn":"What's new:\n- NEW: fuel log (tap Fuel on the home screen)\n- Fix: language switch now persists\n- Info cells show full text and are tappable (Oil/Tires open the Shop)\n- Home button opens My Destinations when no address is saved","mandatory":false,"versionCode":29,"versionName":"1.16.0"}
+{
+  "apkUrl": "https://granfinoalas.github.io/drivehub-updates/drivehub-v1.17.0.apk",
+  "changelog": "Tema claro/escuro/automatico; ingles revisado; sons de notificacao; animacao de entrada; microanimacoes das pecas",
+  "changelogEn": "What's new:\n- NEW: fuel log (tap Fuel on the home screen)\n- Fix: language switch now persists\n- Info cells show full text and are tappable (Oil/Tires open the Shop)\n- Home button opens My Destinations when no address is saved",
+  "mandatory": false,
+  "versionCode": 30,
+  "versionName": "1.17.0"
+}
