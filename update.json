@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.17.1.apk",
-  "changelog": "Versao visivel no final do Perfil; foto da X5 preta = foto original (rodas prata)",
-  "changelogEn": "What's new:\n- Installed version now shown at the bottom of Profile\n- Black X5 hero photo replaced with the original photo (silver wheels)",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.18.0.apk",
+  "changelog": "Entrada sem animacao (carros estaticos); video da X5 preta no lugar da foto (roda girando com fumaca, em loop, sem som)",
+  "changelogEn": "What's new:\n- Entry screen animation removed (cars now static)\n- Black X5 hero photo replaced with a muted looping video (wheel spinning with smoke)",
   "mandatory": false,
-  "versionCode": 31,
-  "versionName": "1.17.1"
+  "versionCode": 32,
+  "versionName": "1.18.0"
 }
