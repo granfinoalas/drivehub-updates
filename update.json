@@ -1,8 +1,1 @@
-{
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.18.0.apk",
-  "changelog": "Entrada sem animacao (carros estaticos); video da X5 preta no lugar da foto (roda girando com fumaca, em loop, sem som)",
-  "changelogEn": "What's new:\n- Entry screen animation removed (cars now static)\n- Black X5 hero photo replaced with a muted looping video (wheel spinning with smoke)",
-  "mandatory": false,
-  "versionCode": 32,
-  "versionName": "1.18.0"
-}
+{"apkUrl":"https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.19.0.apk","changelog":"Integração BMW Apps (6NR) clean-room: telas DriveHub no iDrive (Destinos, Viagem, Status), comandos do iDrive de volta ao app, diagnóstico passo a passo da conexão; removida extração de certificado do APK da BMW","changelogEn":"What's new:\n- BMW Apps (6NR) clean-room integration: DriveHub screens on iDrive (Destinations, Trip, Vehicle status)\n- iDrive controller input routes back into the app (send destination, back to car)\n- Step-by-step connection diagnostics\n- Removed BMW APK certificate extraction","mandatory":false,"versionCode":33,"versionName":"1.19.0"}
