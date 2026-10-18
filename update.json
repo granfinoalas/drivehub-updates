@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.24.0.apk",
-  "changelog": "Novidades: correção urgente — a tela não fica mais preta (a barra inferior estava cobrindo todo o conteúdo); novo ícone do app (motor).",
-  "changelogEn": "What's new:\n- Urgent fix: the screen no longer goes black (the bottom bar was covering all content)\n- New app icon (engine).",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.24.1.apk",
+  "changelog": "Novidades: foto do carro na tela inicial 35% menor; correção do túnel USB — o carro agora mostra o pedido de permissão ao plugar o cabo.",
+  "changelogEn": "What's new:\n- Car photo on the home screen 35% smaller.\n- USB tunnel fix: the car now shows the permission prompt when the cable is plugged in.",
   "mandatory": false,
-  "versionCode": 38,
-  "versionName": "1.24.0"
+  "versionCode": 39,
+  "versionName": "1.24.1"
 }
