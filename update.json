@@ -1,8 +1,8 @@
 {
-    "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.23.0.apk",
-    "changelog": "Novidades: foto do carro menor na tela inicial, na mesma proporção da referência; nome do carro no topo agora é clicável e mostra ano, modelo e VIN com botão de copiar; barra inferior com botão Home em destaque no centro; manual do proprietário salvo no app e abre offline, sem depender do site; ícones das luzes de advertência redesenhados no padrão universal.",
-    "changelogEn": "What's new:\n- Smaller car photo on the home screen, same proportions as the reference\n- Tappable car name at the top: shows year, model and VIN with a copy button\n- Bottom bar with a prominent centered Home button\n- Owner's manual saved in the app and opens offline, no website needed\n- Warning-light icons redrawn to the universal standard",
-    "mandatory": false,
-    "versionCode": 37,
-    "versionName": "1.23.0"
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.24.0.apk",
+  "changelog": "Novidades: correção urgente — a tela não fica mais preta (a barra inferior estava cobrindo todo o conteúdo); novo ícone do app (motor).",
+  "changelogEn": "What's new:\n- Urgent fix: the screen no longer goes black (the bottom bar was covering all content)\n- New app icon (engine).",
+  "mandatory": false,
+  "versionCode": 38,
+  "versionName": "1.24.0"
 }
