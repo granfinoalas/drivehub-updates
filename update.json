@@ -1,1 +1,8 @@
-{"apkUrl":"https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.24.2.apk","changelog":"Novidades: foto do carro na tela inicial um pouco menor; mais espaço acima dos cartões de concessionária e Glovebox; barra inferior agora acompanha o tema claro; correção no diagnóstico da conexão com o carro (sondagem).","changelogEn":"What's new:\n- Slightly smaller car photo on the home screen.\n- More space above the dealer and Glovebox cards.\n- Bottom bar now follows the light theme.\n- Car-connection diagnostic (probe) fix.","mandatory":false,"versionCode":40,"versionName":"1.24.2"}
+{
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.25.0.apk",
+  "changelog": "Novidades: luzes de alerta do Glovebox refeitas idênticas ao manual do proprietário, com as descrições oficiais; novo \"Conheça a X5\" no Glovebox — toque nos pontos numerados do carro para abrir o manual na seção certa; foto do carro na tela inicial: nova imagem 3/4 e espaçamento como no seu exemplo.",
+  "changelogEn": "What's new:\n- Glovebox warning lights redrawn identical to the owner's manual, with the official descriptions.\n- New \"Around the X5\" in the Glovebox: tap the numbered hotspots on the car to open the manual at the right section.\n- Home car photo: new 3/4 image and spacing, per your mockup.",
+  "mandatory": false,
+  "versionCode": 41,
+  "versionName": "1.25.0"
+}
