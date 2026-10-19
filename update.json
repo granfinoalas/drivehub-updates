@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.25.0.apk",
-  "changelog": "Novidades: luzes de alerta do Glovebox refeitas idênticas ao manual do proprietário, com as descrições oficiais; novo \"Conheça a X5\" no Glovebox — toque nos pontos numerados do carro para abrir o manual na seção certa; foto do carro na tela inicial: nova imagem 3/4 e espaçamento como no seu exemplo.",
-  "changelogEn": "What's new:\n- Glovebox warning lights redrawn identical to the owner's manual, with the official descriptions.\n- New \"Around the X5\" in the Glovebox: tap the numbered hotspots on the car to open the manual at the right section.\n- Home car photo: new 3/4 image and spacing, per your mockup.",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.26.0.apk",
+  "changelog": "Novidades: login com o carro (BMW Apps) agora acontece dentro do DriveHub — o app completa sozinho o handshake de segurança SAS pelo túnel USB. O app BMW Connected Classic (6.4.x) vira o assinador de segurança invisível em segundo plano (você nunca precisa abri-lo). O diagnóstico mostra as novas etapas: certificado, desafio do carro, assinatura e login concluído. Protocolo BMW Apps baseado no código aberto BimmerGestalt AAIdrive e IDriveConnectKit (licença MIT).",
+  "changelogEn": "What's new:\n- Car login (BMW Apps) now happens inside DriveHub: the app completes the SAS security handshake on its own over the USB tunnel.\n- The BMW Connected Classic app (6.4.x) becomes the invisible background security signer — you never need to open it.\n- The diagnostics show the new steps: certificate, car challenge, signature, and completed login.\n- BMW Apps protocol built on the open-source BimmerGestalt AAIdrive and IDriveConnectKit code (MIT license).",
   "mandatory": false,
-  "versionCode": 41,
-  "versionName": "1.25.0"
+  "versionCode": 42,
+  "versionName": "1.26.0"
 }
