@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.26.1.apk",
-  "changelog": "Ícones de alerta agora são os símbolos exatos do manual oficial BMW (extraídos direto do PDF do manual).",
-  "changelogEn": "Warning icons now use the exact symbols from the official BMW manual (extracted directly from the manual's PDF).",
-  "mandatory": false,
-  "versionCode": 43,
-  "versionName": "1.26.1"
+ "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.26.2.apk",
+ "changelog": "Handshake BMW Apps: certificado agora no formato mesclado que o carro espera (tentativa de correção do timeout no login).",
+ "changelogEn": "BMW Apps handshake: certificate now in the merged format the car expects (attempted fix for the login timeout).",
+ "mandatory": false,
+ "versionCode": 44,
+ "versionName": "1.26.2"
 }
