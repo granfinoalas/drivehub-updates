@@ -1,8 +1,8 @@
 {
- "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.26.2.apk",
- "changelog": "Handshake BMW Apps: certificado agora no formato mesclado que o carro espera (tentativa de correção do timeout no login).",
- "changelogEn": "BMW Apps handshake: certificate now in the merged format the car expects (attempted fix for the login timeout).",
+ "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.26.3.apk",
+ "changelog": "Correção de travamento ao conectar o USB: etapa do certificado agora é à prova de falhas e registra o erro no diagnóstico.",
+ "changelogEn": "Fixed crash on USB connect: the certificate step is now crash-proof and logs any error in diagnostics.",
  "mandatory": false,
- "versionCode": 44,
- "versionName": "1.26.2"
+ "versionCode": 45,
+ "versionName": "1.26.3"
 }
