@@ -1,8 +1,8 @@
 {
- "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.26.3.apk",
- "changelog": "Correção de travamento ao conectar o USB: etapa do certificado agora é à prova de falhas e registra o erro no diagnóstico.",
- "changelogEn": "Fixed crash on USB connect: the certificate step is now crash-proof and logs any error in diagnostics.",
- "mandatory": false,
- "versionCode": 45,
- "versionName": "1.26.3"
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.0.apk",
+  "changelog": "Integração com Spotify: controles de música dentro do DriveHub (requer app Spotify instalado e Client ID gratuito).",
+  "changelogEn": "Spotify integration: music controls inside DriveHub (requires the Spotify app installed and a free Client ID).",
+  "mandatory": false,
+  "versionCode": 46,
+  "versionName": "1.27.0"
 }
