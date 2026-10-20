@@ -1,8 +1,1 @@
-{
- "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.5.apk",
- "changelog": "Correções do proprietário: textos do Glovebox agora legíveis no tema claro (seguem o tema); Home reorganizada — Spotify no topo, alternador Home/Health menor e mais espaço ao redor do carro; ícones da Loja redesenhados a partir das peças reais; manual do proprietário em PDF vetorial oficial (zoom nítido, sem distorcer).",
- "changelogEn": "Owner fixes: Glovebox text now follows the theme (readable in light mode); Home rearranged — Spotify at the top, slimmer Home/Health toggle and more room around the car; Shop icons redrawn from the real parts; owner's manual is now the official vector PDF (crisp zoom, no distortion).",
- "mandatory": false,
- "versionCode": 51,
- "versionName": "1.27.5"
-}
+{"apkUrl":"https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.6.apk","changelog":"Nova foto do carro na Home: a foto completa enviada pelo proprietário (perfil lateral, pneus inteiros), do jeito que ele escolheu.","changelogEn":"New car photo on Home: the complete photo sent by the owner (side profile, full tires), as he chose.","mandatory":false,"versionCode":52,"versionName":"1.27.6"}
