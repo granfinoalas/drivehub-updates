@@ -1,8 +1,8 @@
 {
- "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.2.apk",
- "changelog": "Correção definitiva da instalação: assinatura permanente — a partir desta versão as atualizações instalam por cima, sem desinstalar. (Esta versão exige uma última desinstalação.)",
- "changelogEn": "Install fix: permanent signing key — updates install over existing versions from now on. (This version requires one final clean reinstall.)",
+ "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.3.apk",
+ "changelog": "Correção do login BMW Apps: montagem do certificado refeita (aceita o formato real do app BMW) + diagnóstico de formato no log.",
+ "changelogEn": "BMW Apps login fix: certificate merge rebuilt (accepts the BMW app's real format) + format diagnostics in the log.",
  "mandatory": false,
- "versionCode": 48,
- "versionName": "1.27.2"
+ "versionCode": 49,
+ "versionName": "1.27.3"
 }
