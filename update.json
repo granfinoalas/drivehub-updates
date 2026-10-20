@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.0.apk",
-  "changelog": "Integração com Spotify: controles de música dentro do DriveHub (requer app Spotify instalado e Client ID gratuito).",
-  "changelogEn": "Spotify integration: music controls inside DriveHub (requires the Spotify app installed and a free Client ID).",
+  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.1.apk",
+  "changelog": "Spotify: login refeito pela API oficial (o caminho antigo quebrou no lado do Spotify); controles continuam iguais.",
+  "changelogEn": "Spotify: login rebuilt on the official Web API (the old path broke on Spotify’s side); controls unchanged.",
   "mandatory": false,
-  "versionCode": 46,
-  "versionName": "1.27.0"
+  "versionCode": 47,
+  "versionName": "1.27.1"
 }
