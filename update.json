@@ -1,8 +1,8 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.1.apk",
-  "changelog": "Spotify: login refeito pela API oficial (o caminho antigo quebrou no lado do Spotify); controles continuam iguais.",
-  "changelogEn": "Spotify: login rebuilt on the official Web API (the old path broke on Spotify’s side); controls unchanged.",
-  "mandatory": false,
-  "versionCode": 47,
-  "versionName": "1.27.1"
+ "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.2.apk",
+ "changelog": "Correção definitiva da instalação: assinatura permanente — a partir desta versão as atualizações instalam por cima, sem desinstalar. (Esta versão exige uma última desinstalação.)",
+ "changelogEn": "Install fix: permanent signing key — updates install over existing versions from now on. (This version requires one final clean reinstall.)",
+ "mandatory": false,
+ "versionCode": 48,
+ "versionName": "1.27.2"
 }
