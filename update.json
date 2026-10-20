@@ -1,8 +1,8 @@
 {
- "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.3.apk",
- "changelog": "Correção do login BMW Apps: montagem do certificado refeita (aceita o formato real do app BMW) + diagnóstico de formato no log.",
- "changelogEn": "BMW Apps login fix: certificate merge rebuilt (accepts the BMW app's real format) + format diagnostics in the log.",
+ "apkUrl": "https://raw.githubusercontent.com/granfinoalas/drivehub-updates/main/drivehub-v1.27.4.apk",
+ "changelog": "Motor do carro (beta): DriveHub tenta aparecer no menu do iDrive com telas próprias e capa do Spotify na tela do carro — ativo quando o login BMW Apps conecta. Correção: card do Spotify enxerga o app instalado.",
+ "changelogEn": "Car engine (beta): DriveHub tries to appear in the iDrive menu with its own screens and Spotify cover art on the car display — active when the BMW Apps login connects. Fix: the Spotify card now sees the installed app.",
  "mandatory": false,
- "versionCode": 49,
- "versionName": "1.27.3"
+ "versionCode": 50,
+ "versionName": "1.27.4"
 }
